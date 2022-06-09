@@ -1,7 +1,7 @@
 #!/bin/sh
 
 PRODUCT='NAKIVO Backup & Replication'
-URL="http://10.10.17.38:280/tuan/NAKIVO_Backup_Replication_v10.6.0.65923_Installer-NAS-INTEL-TRIAL.sh"
+URL="http://10.10.17.38:280/tuan/10.6.0.65923.sh"
 SHA256="508906e8a77a0f748fe4ee6ae294f3925822a4c480566550205a3adef8a66971"
 
 PRODUCT_ROOT="/usr/local/nakivo"
