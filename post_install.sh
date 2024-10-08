@@ -1,7 +1,7 @@
 #!/bin/sh
 
 PRODUCT='NAKIVO Backup & Replication'
-URL="http://10.10.17.100:8080/NinjaCore_11.0.0-release(11.0.0transporter)_11.0.0.87179_build-artifacts_NAKIVO_Backup_Replication_v11.0.0.87179_Installer-TRIAL.sh"
+URL="http://10.10.17.100:8080/NAKIVO_Backup_Replication_v11.0.0.87179_Installer-TRIAL.sh"
 SHA256="1deb9a59684aaa839ca73075e44eaef2000b64627f9edfec89514e871660ba81"
 
 PRODUCT_ROOT="/usr/local/nakivo"
